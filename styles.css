@@ -1,0 +1,59 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@600;900&display=swap');
+.icon{
+    width: 59px;
+    height: 42px;
+    color: #0040ff;
+   
+}
+h1{
+    font-size: 3.5em ;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 900;
+    position: relative;
+    display: inline;
+    color: rgb(0 90 255);
+    text-align: center;
+    top: 10px;
+   
+}
+.logo{
+    background-color: gainsboro;
+    text-align: center;
+    padding: 15px
+}
+.logo-img{
+    margin-right: 10px;
+}
+.addbar{
+    background-color: gainsboro;
+    padding: 24px 172px 22px 296px;
+}
+.bar{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.inputbar{
+    height: 56px;
+    width: 40vw;
+}
+.addbtn{
+    margin: 0 20px;
+}
+.cal{
+    color: black;
+    position: relative;
+    width: 29px;
+    right: 178px;
+    height: 29px;
+}
+.list{
+    padding: 20px 71px 20px 71px;
+}
+.cls{
+    float: right;
+    padding: 2px 5px 2px 5px;
+}
+
+
+
