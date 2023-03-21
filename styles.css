@@ -3,7 +3,6 @@
     width: 59px;
     height: 42px;
     color: #0040ff;
-   
 }
 h1{
     font-size: 3.5em ;
@@ -26,7 +25,8 @@ h1{
 }
 .addbar{
     background-color: gainsboro;
-    padding: 24px 172px 22px 296px;
+    padding-top: 25px;
+    padding-bottom: 25px;
 }
 .bar{
     display: flex;
@@ -55,5 +55,10 @@ h1{
     padding: 2px 5px 2px 5px;
 }
 
-
+@media only screen and (max-width: 600px)  {
+    .list{
+        padding: 20px;
+    }
+    
+}
 
